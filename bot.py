@@ -4,7 +4,7 @@ import sqlite3
 from telegram import Update, ChatMember
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = "8695660286:AAFfwO77m7pa7-hgiZe57NmMkz2DbsJ-BDY"
+TOKEN = ""
 DB_PATH = "bot_data.db"
 CATEGORIES = ["pos", "saha"]
 
